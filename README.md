@@ -60,15 +60,6 @@ Acesse **`http://localhost:5000`** no navegador (ou celular na mesma rede) para 
 
 ---
 
-## 📸 Screenshots
-
-| Aba Otimizações | Dashboard Web | Aba Sobre |
-|-----------------|---------------|-----------|
-| ![Otimizações](screenshots/optimizations.png) | ![Dashboard](screenshots/dashboard.png) | ![Sobre](screenshots/about.png) |
-
-> *Adicione seus prints na pasta `screenshots/` depois*
-
----
 
 ## 🚀 Instalação Rápida
 
