@@ -22,7 +22,7 @@
 
 **Otimize seu PC para máxima performance em jogos** — CPU, RAM, GPU, Rede, Serviços, Energia, Tudo em um clique.
 
-[📥 **Baixar .exe (Standalone ~16MB)**](https://uploadnow.io/files/R5D9x7v) · [📦 **Baixar .zip (Portable ~16MB)**](https://uploadnow.io/files/R5D9x7v) · [🐛 Reportar Bug](https://github.com/edu1355/1355-optimizer/issues) · [💡 Sugerir Feature](https://github.com/edu1355/1355-optimizer/issues) · [☕ Doar](PIX ALEATORIO) · [💳 PIX: `58843ac0-8947-4de5-b269-01b16d26428d`]
+[📥 **Baixar .exe (Standalone ~16MB)**](https://uploadnow.io/files/R5D9x7v) · [📦 **Baixar .zip (Portable ~16MB)**](https://uploadnow.io/files/Mp5W3Ts) · [🐛 Reportar Bug](https://github.com/edu1355/1355-optimizer/issues) · [💡 Sugerir Feature](https://github.com/edu1355/1355-optimizer/issues) · [☕ Doar](PIX ALEATORIO) · [💳 PIX: `58843ac0-8947-4de5-b269-01b16d26428d`]
 
 </div>
 
